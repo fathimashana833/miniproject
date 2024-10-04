@@ -183,6 +183,9 @@ right: 10px;
 
  
 }
+#prodetails .single-pro-details{
+    padding-top: 130px;
+}
 #prodetails .single-pro-details .star{
     padding-top: 30px;
     }
