@@ -78,14 +78,6 @@ body{
 #prodetails .single-pro-details h2{
     font-size: 26px;
 }
-#prodetails .single-pro-details select{
-    display: block;
-padding: 5px 10px;
-margin-bottom: 10px;
-padding-left: 10px;
-font-size: 16px;
-margin-right: 10px;
-}
 #prodetails .single-pro-details button{
 background: rgb(87, 175, 204);
 color: whitesmoke;
