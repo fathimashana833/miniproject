@@ -86,13 +86,14 @@ font-family: "PT Serif", serif; ;
 #prodetails .single-pro-details button{
 background: rgb(248, 196, 41);
 color: rgb(108, 98, 51);
-width: 100px;
-height: 47px;
+width: 80px;
+height: 30px;
 border: none;
 
 }
 #prodetails .single-pro-details .star{
     padding-top: 20px;
+    color: rgb(221, 146, 40);
 }
 #prodetails .single-pro-details span{
     line-height: 25px;
@@ -159,7 +160,7 @@ border: none;
 
  }
  #product1 .pro .des h4{
-    padding-top: 7px;
+    padding-top: 20px;
     font-size: 15;
     font-weight: 700;
     color: rebeccapurple;
